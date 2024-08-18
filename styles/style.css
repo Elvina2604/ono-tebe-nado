@@ -108,7 +108,7 @@
 }
 
 .aligned-text_right {
-    text-align: right; 
+    text-align: right;
     line-height: 100%;
 }
 
@@ -166,7 +166,6 @@
     line-height: 47px;
     padding-left: 40px;
     padding-bottom: 27px;
-
 }
 
 .lots__card-list {
@@ -187,7 +186,7 @@
     justify-content: space-between;
     position: relative;
     width: 334px;
-    min-height: 563px; 
+    min-height: 563px;
 }
 
 .card_type_film {
