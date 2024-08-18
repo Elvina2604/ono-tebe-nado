@@ -19,7 +19,6 @@
 .header__menu-item:nth-of-type(2) {
     list-style-type: circle;
     text-underline-offset: 4px;
-
 }
 
 .header__menu-item:nth-of-type(3) {
@@ -64,8 +63,6 @@
     background-position: center;
     background-size: cover;
     z-index: -1;
-
-    
 }
 
 .overlay {
@@ -91,7 +88,6 @@
     color: #FFFFFF;
     text-transform: uppercase;
     margin-bottom: 134px;
-    
 }
 
 .aligned-text .aligned-text_center .aligned-text_right {
@@ -112,8 +108,8 @@
 }
 
 .aligned-text_right {
+    text-align: right; 
     line-height: 100%;
-    text-align: right;
 }
 
 .letter-spacing-extended {
@@ -178,8 +174,6 @@
     list-style: none;
     color: #FFFFFF;
     column-gap: 25px;
-
-    
 }
 
 .card-link {
@@ -193,7 +187,7 @@
     justify-content: space-between;
     position: relative;
     width: 334px;
-    min-height: 563px;
+    min-height: 563px; 
 }
 
 .card_type_film {
@@ -245,8 +239,8 @@
 }
 
 .about {
-    padding: 146px 24px 180px;
     display: grid;
+    padding: 146px 24px 180px;
     grid-template-columns: 334px 1fr;
     column-gap: 25px;
 }
