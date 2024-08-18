@@ -109,7 +109,6 @@
 .aligned-text_center {
     text-align: center;
     line-height: 98%;
-
 }
 
 .aligned-text_right { 
@@ -194,7 +193,7 @@
     justify-content: space-between;
     position: relative;
     width: 334px;
-    min-height: 563px; 
+    min-height: 563px;
 }
 
 .card_type_film {
