@@ -112,9 +112,9 @@
 
 }
 
-.aligned-text_right {
-    text-align: right; 
+.aligned-text_right { 
     line-height: 100%;
+    text-align: right;
 }
 
 .letter-spacing-extended {
